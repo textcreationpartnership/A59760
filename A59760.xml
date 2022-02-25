@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Sheriffs case whether, and how they may lawfully qualifie themselves for their holding the office, according to the Act for Corporations.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59760</idno>
+            <idno type="STC">Wing S3234</idno>
+            <idno type="STC">ESTC R28863</idno>
+            <idno type="EEBO-CITATION">10771901</idno>
+            <idno type="OCLC">ocm 10771901</idno>
+            <idno type="VID">45776</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59760)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45776)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1410:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Sheriffs case whether, and how they may lawfully qualifie themselves for their holding the office, according to the Act for Corporations.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Snowdon,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Royal supremacy (Church of England)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:45776:1" rendition="simple:additions"/>
+            <head>THE SHERIFFS CASE.</head>
+            <head type="sub">Whether, and How they may lawfully Qualifie themſelves for their holding the Office, ac<g ref="char:EOLhyphen"/>cording to the Act for <hi>Corporations?</hi>
+            </head>
+            <p>IN this Act there are two things impoſed; an Oath, and a Renunciation of the Covenant: And we muſt lay down this <note n="*" place="margin">To this Rule there is a double Extreme. The one, is of thoſe who think a man muſt take every Impoſition in the ſtrict literal con<g ref="char:EOLhyphen"/>ſtruction, &amp; can ſubmit to it no o<g ref="char:EOLhyphen"/>therwiſe. The other, is of ſuch who ſup<g ref="char:EOLhyphen"/>poſe that if a man can frame any interpretation of his own that is but reaſonable, he may take the words in that ſenſe and be ſatisfied. The <hi>firſt</hi> of theſe is ſo rigid, that there is nothing can be impoſed, but we ſhall ſtrain at it; and the <hi>laſt</hi> ſo looſe, that nothing can be impoſed, but we ſhall ſwallow it. The true <hi>Me<g ref="char:EOLhyphen"/>dium</hi> is this, we muſt ſit down and conſider what we believe to be the meaning of the Lawgiver, and if we can ſubmit to an Impoſition in that ſenſe or meaning which we believe <hi>theirs,</hi> we muſt do it; but if we believe their ſenſe to be ſuch, as we cannot take it in <hi>that ſenſe,</hi> we muſt forbear it and ſuffer.</note> Rule at firſt, That all Impoſitions of of our Superiours muſt be taken in the ſenſe and meaning of thoſe that Impoſe them (there need be no ſcruple elſe in ſubmiſſion to any thing enjoyned.) The bottom is this, becauſe the <hi>Law</hi> is the <hi>Will</hi> of the <hi>Lawgiver,</hi> and it is the Law<g ref="char:EOLhyphen"/>giver's <hi>Meaning,</hi> which is his <hi>Will,</hi> howſoever the words of a <hi>Law</hi> is expreſſed. The Parliament here (we know) is the Lawgiver, and this <hi>Oath</hi> then muſt be <hi>ta<g ref="char:EOLhyphen"/>ken,</hi> and <hi>Renunciation made</hi> in the ſenſe and meaning of the Major part of the Par<g ref="char:EOLhyphen"/>liament which paſſed the Act: Where we muſt alſo premiſe thus much, that it is not for any Sheriff, Alderman, or other perſon upon whom this <hi>Oath</hi> is Impoſed, (for we muſt begin with <hi>That</hi>) to put a <hi>meaning</hi> of his <hi>own</hi> upon it, which is to be taken only in Theirs that paſſed the <hi>Act;</hi> but to conſider verily what he believes to <hi>that Meaning,</hi> which is indeed the <hi>Lawgivers.</hi> Not to determine neither and ſay, <hi>This is the meaning,</hi> but to be able to ſay, I <hi>believe</hi> this to be their Meaning, which is neceſſary to every one that takes it, to determine for himſelf, that he may act in Faith in what he does.</p>
+            <p>We muſt add, That when we ſay the Parliament is the Lawgiver, we underſtand by the Par<g ref="char:EOLhyphen"/>liament, the King, Lords and Commons; and conſequently, that the ſenſe of the Law, (and ſo of this Oath) muſt be always that ſenſe wherein the <hi>Houſe of Lords</hi> did concur with the <hi>Houſe of Commons,</hi> and the <hi>King</hi> with both. If there be any ſenſe therefore of an Impoſition which may be ſuppoſed to be the meaning of the <hi>King,</hi> and not of the <hi>Houſes,</hi> or of <hi>One</hi> of the Houſes, and not the <hi>Other;</hi> or a <hi>leſſer</hi> part of <hi>either</hi> Houſe, and not the <hi>majority</hi> of <hi>both,</hi> that ſenſe muſt be ſtill lookt on as too narrow, and ought not to ſcruple the Conſcience, the true ſenſe obliging the <hi>Subject,</hi> being the <hi>concurrent</hi> ſenſe of the <hi>King, Lords</hi> and <hi>Commons,</hi> who as aſſembled joyntly to this end of Legiſlation, not <hi>one</hi> without the <hi>other,</hi> but all <hi>three</hi> together, as <hi>One Corporation</hi> (and otherwiſe) are the <hi>Lawgiver.</hi>
+            </p>
+            <p>Neither is this ſenſe to be collected from the firſt floating apprehenſions of any one that moves a matter in the Houſe, but from the digeſted thoughts of both Houſes, after a mature debate, and the thing hath thrice paſſed in them both, ſo that no ſenſe of any Impoſition but that which is agreeable to Reaſon, and more eſpecially to the fundamental Laws of the Conſtitution, muſt be received as the Meaning of a Parliament, the Reaſon being, becauſe the nature of the <hi>Conſtitution</hi> is ſuch, as it cannot be infringed by an Act or Law for the <hi>Adminiſtration;</hi> which is a Note to be laid in here, that by-and-by will be needful. Thus much therefore farther, and no leſs being premiſed, we proceed.</p>
+            <p>By <hi>taking Arms,</hi> Let us ſuppoſe the Sheriffs believe the Parliament meant the raiſing an Ar<g ref="char:EOLhyphen"/>Army, or War; and by the <hi>King,</hi> the King's own Sacred <hi>Perſon,</hi> as there is nothing elſe indeed
+<pb n="2" facs="tcp:45776:2"/>can be meant: And we can ſee no <note n="*" place="margin">The only objecti<g ref="char:EOLhyphen"/>ons here which are of weight, may be reduced to two Ca<g ref="char:EOLhyphen"/>ſes. One is the Caſe of <hi>Private</hi> violence, as ſuppoſe a Prince ſhould go to raviſh a Virgin, and ſhe catches up the next Weapon or Inſtrument to defend herſelf. In this Caſe, or the like, we anſwer, this Defence is not to be accounted <hi>taking Arms</hi> in the ſenſe of this Act. The other is a Caſe of <hi>Publick</hi> violence; as ſuppoſe a Prince ſhould go about to alienate his Kingdom, or ruine his Country, or the like. We anſwer, we are not for all that to re<g ref="char:EOLhyphen"/>turn violence upon his Perſon; and as for his Officers, Followers, or Armies, the ſolution muſt be attended in the next Clauſe of the Oath.</note> Objection which may not be anſwered from this Little, in the firſt Clauſe of the Oath. <hi>I</hi> A. B. <hi>do ſwear, That I hold it unlawful to take Arms againſt the King</hi> (or his Rightful Govern<g ref="char:EOLhyphen"/>ment) <hi>upon any Pretence whatſoever.</hi>
+            </p>
+            <p>If <hi>David</hi>'s heart ſmote him for cutting off but <hi>Saul's Skirt,</hi> when he was actually in Arms to defend himſelf againſt <hi>Saul's Forces,</hi> onely becauſe he was the <hi>Lord's Anointed.</hi> It is not in this firſt Clauſe (any one may conjecture) but in the enſuing, where the Chief Scruples againſt the Oath are to be removed.</p>
+            <p>In the ſecond Clauſe, By <hi>thoſe Commiſſionated by Him,</hi> let us ſuppoſe they believe the Parlia<g ref="char:EOLhyphen"/>ment meant, and could mean, no other than ſuch as have a due Authority from Him, and exer<g ref="char:EOLhyphen"/>ciſe it onely according to Law: And ſo long as the <hi>King's Authority,</hi> and <hi>ſuch Commiſſions</hi> are one, (or the ſame,) we can ſee no more difficulty remaining in the ſecond Clauſe, than in the for<g ref="char:EOLhyphen"/>mer: <hi>And I do abhor</hi> (that is, diſown or diſclaim) <hi>that Trayterous Poſition, of taking Arms by His Authority againſt His Perſon, or againſt any Commiſſionated by Him in the purſuit of ſuch Commiſ<g ref="char:EOLhyphen"/>ſions:</hi> That is, <hi>Legally</hi> Commiſſionated by Him, in the <hi>Legal</hi> purſuit of ſuch Commiſſions.</p>
+            <p>It is not to be imagined that the Parliament, when they paſſed this Act, (that is, the <hi>Major</hi> part of them) ſhould deſign the ſetting up an Arbitrary Government in the Nation: But if the meaning of <hi>thoſe Commiſſionated by Him,</hi> be otherwiſe than thus, they muſt deſign it. An <hi>Arbi<g ref="char:EOLhyphen"/>trary Power,</hi> as ſoon as they paſſed this Clauſe in any Act, muſt be accounted to <hi>Commence.</hi> A thing moſt abſurd to be believed, and in the contrary belief whereof the moſt ſcrupulous man (we thank God) may reſolvedly take this Oath.</p>
+            <p>In the third Clauſe, we diſtinguiſh an <hi>Endeavour</hi> to change or reform any thing in Church or State, which we think conducive to the good of the Nation in a Parliamentary way onely, as is allowed by the fundamental Law and Courſe of the Realm, from an <hi>Endeavour</hi> in any other away that is not warranted by the ſame, to wit, in a ſeditious way, or in ſuch manner <hi>as they did in the late Times,</hi> when they endeavoured the Extirpation of Prelacy by force <hi>againſt</hi> and <hi>with<g ref="char:EOLhyphen"/>out</hi> the King's conſent in Parliament, (which may be believed to be the aſſured ſenſe of the Ma<g ref="char:EOLhyphen"/>jority in the Houſes, when they paſſed this Act,) and ſo long <hi>as to do ſo</hi> 
+               <note n="*" place="margin">That the meaning of the Parliament in this Oath and De<g ref="char:EOLhyphen"/>claration was, that we ſhould declare it to be unlawful for <hi>us</hi> to do that <hi>now,</hi> which <hi>they</hi> did <hi>then</hi> (or <hi>as of late hath been practiſed,</hi> to uſe the words of the Militia Act,) we are out of doubt; but whe<g ref="char:EOLhyphen"/>ther in the peculiar caſe of thoſe times there was any thing might be lawful. or any way juſtifiable to be done <hi>then</hi> (when the King and Houſes (the One Corporation) were divided, and he had paſſed an Act not to Diſſolve them without their conſent, which is a caſe never like to happen any more, and ſo no danger to put it) which <hi>now</hi> is certainly unlawful, is a queſtion we have nothing to do with, and interpoſe nothing to offend any.</note> 
+               <hi>now,</hi> may be acknowledged (as aſſuredly) to be unlawful, and what ought to be diſclaimed, the offence muſt be over in the laſt part of the Oath alſo: <hi>And that I will not endeavour any Alteration of Government either in Church or State;</hi> to wit, in any manner not warranted by the Conſtitution of the Land, or any otherwiſe, than by Act of Parliament.</p>
+            <p>We confirm this Expoſition with one clear Reaſon. The great thing intended by this Oath, is the preſervation of the Government in the fundamental Conſtitution againſt all Alteration. But the Conſtitution of our Government being ſuch in the foundation, that whatſoever is needful or convenient to be altered, it may be propoſed to that end in Parliament: to take away that Li<g ref="char:EOLhyphen"/>berty which is univerſally radicated in the whole Nation in order thereunto, were a piece of the greateſt Alteration that could be, and conſequently never to be underſtood as intended by the Lawgiver.</p>
+            <p>As for the <hi>Solemn League and Covenant</hi> (the Renunciation whereof is the ſecond thing here impoſed,) it is an <hi>Oath</hi> ſo long ſince in Being, <hi>that,</hi> 'tis two to one but both theſe Sheriffs (as well as the laſt) never took, ſo that they may ſafely ſay, there lies no obligation upon them at all from it; And as for others that did, we humbly conceive, that being taken in its <hi>Complex Conſideration,</hi> as it was preſſed and uſed at that time, for the engagement of People to the Extirpation of the Biſhops, and change of Church-Government without the King, againſt His Conſent, and Pub<g ref="char:EOLhyphen"/>lick Declarations, and by Force, it muſt needs be <hi>Unlawful,</hi> and could not bind any body <hi>to do ſo:</hi>
+               <pb n="3" facs="tcp:45776:2" rendition="simple:additions"/>and conſequently we truſt, that ſuch Gentlemen ſhall not offend God, or any good Men, if they farther ſubſcribe this Declaration, which is alſo required: <hi>I</hi> A. B. <hi>do declare, That I hold there lies no Obligation on me, or on any other Perſon, from the Oath commonly called,</hi> The Solemn League and Covenant, <hi>to endeavour any Change or Alteration of Government either in Church or State; And that the ſame was in it ſelf an unlawful Oath, and impoſed on the Subjects of this Realm, a<g ref="char:EOLhyphen"/>gainſt the known Laws and Liberties of the Kingdom.</hi>
+            </p>
+            <p>By ſome of which laſt words it appears, that this Oath was framed for the <hi>Subjects of the Realm,</hi> (we ſay, that this Oath was, in the meaning of the Impoſers of this Declaration, <hi>the Subjects Oath,</hi> and conſequently by the words, <hi>or any other Perſon,</hi> they muſt mean, <hi>or any other Subject:</hi>) which appears alſo manifeſtly in the Preamble of that League, <hi>We,</hi> ſuch and ſuch <hi>under the King.</hi> There is one part of it moreover expreſs for the <hi>preſervation of the King;</hi> we do ſuppoſe there<g ref="char:EOLhyphen"/>fore, that though an Oath to the ſame main effect, or one like it, was impoſed on <hi>this</hi> King by the <hi>Scots,</hi> that Oath muſt be conceived <hi>another</hi> than this, and not the very <hi>ſame,</hi> being not ſo in every point, but an <hi>Oath</hi> indeed (as they call'd it) <hi>to confirm the Covenant,</hi> when He offer'd this very Exception againſt taking the Covenant it ſelf, becauſe it was an Oath for the Subjects only. And this being enough to ſave the Conſcience in <hi>one chief</hi> Scruple, (and chiefeſt one,) we will gather up again what is ſaid before into one Argument (which we fix upon) for a fuller ſatisfaction in regard to <hi>all others.</hi> To own the King and his Authority in the ſame Oath, and yet to ſwear to change the Government <hi>without</hi> His Will, and <hi>againſt</hi> it, is (we think) <hi>in it ſelf unlawful.</hi> Such an Oath was the Covenant; and <hi>Quà</hi> unlawful, it muſt be unobligatory.</p>
+            <p>And what indeed ſhall now hinder theſe Sheriffs to ſubſcribe, That there lies no obligation up<g ref="char:EOLhyphen"/>on them, or others, from the Covenant, <hi>to endeavour any Alteration of Government</hi> in that ſenſe as they ſwear before that they <hi>will not endeavour any,</hi> in the third clauſe of the Oath preceding? For ſo long as the meaning of the Lawgiver is no other than <hi>That</hi> which is made to appear there, upon the account given, and the <hi>Endeavour</hi> which is here, and which is there, is the ſame out of doubt, we do not ſee but the Reaſon which does ſatisfie any Man upon the Point about taking the <hi>Oath,</hi> muſt be ſufficient for the <hi>Declaration</hi> alſo. In ſhort, <hi>There lyes no obligation upon any from this Oath, to do as they ſware it; It is in it ſelf unlawful to do ſo; &amp; the Impoſition of it was illegal.</hi>
+            </p>
+            <p>In the Sacred Story concerning <hi>Rahab</hi> and the <hi>Spies,</hi> it appears that no body can be engaged any farther by an Oath, than what he agrees or conſents to in the taking it. Where he declares before-hand he will not be bound, he is free. We cannot tell how much <hi>larger,</hi> or how much <hi>nar<g ref="char:EOLhyphen"/>rower a compaſs</hi> others may draw to themſelves from that <hi>Inſtance,</hi> than we; but this we will ſay, That upon the ſuppoſal of either of theſe Sheriffs making a Declaration for himſelf (if this Paper will not ſerve when he takes the Oath, and ſubſcribes the Declaration enjoyned, that he does it in this Meaning, which we have all along expreſſed, ſuppoſing it true, (and with theſe explanatory limitations to the <hi>Meaning,</hi> if indeed in any thing it be otherwiſe,) we do apprehend that his Conſcience may receive ſatisfaction thereby in its compliance with the <hi>Law</hi> in theſe <hi>Impoſitions,</hi> which he cannot refuſe, without the refuſal alſo of his <hi>Duty.</hi>
+            </p>
+            <p>After this, there is an Act of Parliament, intituled, <hi>An Act for preſerving His Majeſty,</hi> (<hi>An.</hi> 13. <hi>Car.</hi> 2. <hi>Regis c.</hi> 1.) wherein this Covenant is declared peremptorily to be <hi>unlawful</hi> and <hi>null,</hi> that gave <hi>one</hi> of the Sheriffs laſt year a <hi>peculiar</hi> ſatisfaction. We argue from thence thus: As we find in the Law of <hi>Moſes,</hi> when a Wife or a Daughter made a Vow, if the Huſ<g ref="char:EOLhyphen"/>band or the Father diſallowed it, that Vow was <note n="*" place="margin">We lay down this Rule here, that if any man makes a Vow to God, which he cannot perform without the conſent of another, who is his Superiour, (and much more if through him it muſt be done,) if that <hi>Other</hi> Reclaims the thing as ſoon as he hears of it, the Au<g ref="char:EOLhyphen"/>thority of God by the equity of this Law given by <hi>Moſes,</hi> does (as we ſuppoſe) diſſolve the Obligation, though elſe it could not be diſſolved by the Authority of a Superiour only.</note> reſcinded. So may we apprehend the very ſame Reaſon to be here in regard to this League or Covenant: For the Subject being <hi>(quo ad hoc)</hi> not <hi>ſui juris,</hi> but under the power of the Prince, and much more under the moſt ſupreme and abſolute Authority of Parliament, and the late King declaring ſtill againſt this Oath at the very time, and a Parliament, ſince the return of this King as ſoon as it could be done, having paſſed an Act on purpoſe for diſannulling the ſame, there appears no difference between the Caſes, but that the obligation of this <hi>League,</hi> as well as of thoſe <hi>Vows,</hi> muſt give place to ſuch an Authority over<g ref="char:EOLhyphen"/>ruling it: And more eſpecially (we muſt add) becauſe the Alteration of Go<g ref="char:EOLhyphen"/>vernment (the ſole matter in concern) does belong to the cognizance of the Higher Powers, (we mean a Parliament) and is not the buſineſs of any private perſon, unleſs in order to procuring <hi>their</hi> Conſent and Eſtabliſhment.</p>
+            <p>If this reaſoning now ſhall ſatisfie theſe Sheriffs, and yet be unſatisfactory to another perſon, let us but warn ſuch a man that he does nothing after their <hi>Example,</hi> unleſs he be ſatisfied with our <hi>Reaſons,</hi> and we care not. If our Argument ſatisfie any man, and he follows their pattern, we <hi>edifie</hi> him; if they do not, and he follows his own judgment, we do him <hi>no hurt.</hi> It is a man's own Conſcience is the Diſcerner to him of his Duty, and he is not to regard another Mans, any farther than to avoid Active Scandal.</p>
+            <pb n="4" facs="tcp:45776:3"/>
+            <p>We do not mean it, as if every man therefore ſhould <hi>lean</hi> onely <hi>to his own underſtanding,</hi> but rather take <hi>advice,</hi> and that which is the moſt <hi>ſerious</hi> and <hi>proper</hi> he can get. For our parts, we have no more to offer or ſay, but that we were particularly beholding for this which is ſaid, to a Book, intituled, <note n="*" place="margin">This Book here ci<g ref="char:EOLhyphen"/>ted was Printed 1680. and is ſold by <hi>Tho. Symmonds</hi> at the <hi>Princes Arms</hi> in <hi>Ludgate-ſtreet.</hi>
+               </note> 
+               <hi>A Peaceable Reſolution of Conſcience touching our preſent Impoſitions.</hi> In which Book the Readers (that pleaſe) will find the Rule by which we are to walk, under ſuch Injunctions of our Superiours as theſe, to be ſuch, or ſo ſet out, as that according to the per<g ref="char:EOLhyphen"/>ſuaſion of a man's mind about the ſame, both he that <hi>Conforms</hi> to them, and he that <hi>Cannot,</hi> may ſee reaſon to retain a fair Opinion of one another, and to hope that neither of them depart from a good Conſcience in what they do.</p>
+            <p>This is the Moderation we deſire our ſelves, and theſe Sheriffs to follow, In our Loyalty to our Sovereign, In our Love to our Country, and In our Religion to God.</p>
+            <div type="printers_note">
+               <head>The Reaſons for Printing this Paper are theſe.</head>
+               <p n="1">1. To take the Oath, and ſubſcribe the <hi>Declaration</hi> in the literal ſtrict Conſtruction, appears, in our judgment, unlawful; and conſequently, unleſs by ſome means or other the ſenſe be made publick in which a man does take them, (and that ſenſe alſo be juſtified, or at leaſt be juſtifiable) he muſt forbear.</p>
+               <p n="2">2. The <hi>Declaration</hi> is againſt the Conſciences of the <hi>Nonconformiſts</hi> in general, inſomuch as ſome men who took the <hi>Oath,</hi> cannot ſubſcribe the <hi>Declaration;</hi> and for any Conſcientious men therefore to do it now, and not declare their Reaſons of Satisfaction, were to ſin againſt <hi>the Brethren</hi> if they own them, or to diſclaim them.</p>
+               <p n="3">3. By doing this, a man ſhall give occaſion to others to follow his example, and if he preſent them not his Grounds or Reaſons, Thoſe that follow ſhall do it without the ſame Reaſons, <hi>and through his knowledge ſhall</hi> ſuch <hi>periſh. But when ye ſin ſo againſt the Brethren, and wound their weak Conſciences, ye ſin againſt Chriſt.</hi>
+               </p>
+               <p n="4">4. The Epiſcopal Party are generally apt to think the <hi>Nonconformiſts</hi> to be Hypocrites and Knaves, and ſay, <hi>Theſe men</hi> refuſe theſe Injunctions out of <hi>humor,</hi> or for their <hi>profit,</hi> but they will ſwallow them as well as <hi>we</hi> for <hi>Honour,</hi> or for <hi>Advantage.</hi> If any conſiderate Men therefore ſhall <hi>Swear</hi> and <hi>Declare,</hi> and not give us ſome rational Account of what they do, (or ſome others for them) they muſt not only wrong themſelves, but the whole generation of ſuch Men, and cauſe <hi>the Name of God</hi> (in regard to them) <hi>to be blaſphemed.</hi>
+               </p>
+               <p n="5">5. It pleaſed Providence to call two Perſons to the Office the laſt year, whereof one of them at leaſt (if not both) were the <hi>better</hi> inabled (to ſpeak modeſtly) if not <hi>quite,</hi> to hold the ſame upon the ſatisfaction which is couched in this Paper; and if it be of great Concern at this time that ſuch Men do hold Sheriffs, who are willing to deny their <hi>own</hi> Advantage, (not ſeek it) for the ſake of the <hi>Publick;</hi> It is yet of greater concern that by the publiſhing our grounds for their ſatisfaction. Many in diſtreſs about the <hi>Oxford</hi> Act, may be relieved, and a way opened for Many of the like ſubſtantial Citizens of known Piety, Loyalty and Ability, to be brought into Corporations, throughout the Nation, to the great ſervice of the King and Kingdom.</p>
+               <p>To conclude, We have here laid down the <hi>Rule</hi> concerning Humane Impoſitions, and applied it to this <hi>Oath</hi> and <hi>Subſcription.</hi> If any man is perſuaded in his Conſcience that the meaning of the Lawgiver was no more than thus he may ſubmit to them both, and make no ſtand: but if he believes their meaning was otherwiſe (or doubts that it was more than thus,) he cannot <hi>Swear</hi> or <hi>Subſcribe,</hi> but with <hi>Limitations;</hi> and he muſt declare thoſe Limitations or <hi>Forbear.</hi> But if he ſhall <hi>Swear</hi> or <hi>Subſcribe</hi> (ſuppoſing him one that <hi>doubts</hi>) with a Declaration in the words before written [That he does it, <hi>in the meaning which is here expreſſed, ſuppoſing it true, and with theſe Explanatory Limitations to the meaning, if in any thing indeed it be otherwiſe,</hi>] and ſo give (or throw) in this Paper to the Perſons before whom he is to do it, we are perſuaded of the <note n="*" place="margin">In Mr. <hi>Baxter</hi>'s Fu<g ref="char:EOLhyphen"/>neral Sermon upon that late holy Citi<g ref="char:EOLhyphen"/>zen Mr. <hi>Aſhhurſt,</hi> we take notice of this paſſage: <hi>Some may think that he wanted a Publick Spirit, be<g ref="char:EOLhyphen"/>cauſe he avoided being a Magiſtrate, and pay<g ref="char:EOLhyphen"/>ed his Fine rather than take an Alder<g ref="char:EOLhyphen"/>mans Place; but it was only to keep the Peace of his Conſcience—Yet I never heard him ſpeak uncharitably of thoſe Worthy Men who do what he refuſed, ſuppoſing that they, in words or writing, declared as openly as they ſware and took the Declaration, that they took it but in ſuch or ſuch a lawful ſenſe; though he could not do ſo him<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lf.</hi>
+                  </note> 
+                  <hi>Lawfulneſs</hi> in point of <hi>Con<g ref="char:EOLhyphen"/>ſcience.</hi> Whether they receive the Paper, and admit of your ſenſe or not, it is no matter; for they have no power in it, and the thing will be alike known. And thus have we lent our <hi>hands</hi> to get the concern over theſe blocks, and yet ſo, as to deliver alſo our <hi>ſouls.</hi> For, as this <hi>Sheet</hi> was printed the laſt year, there is one of us having been ſince ſomething diſſa<g ref="char:EOLhyphen"/>tisfied, does hereby recall it: But as it comes out now with this laſt Para<g ref="char:EOLhyphen"/>graph added to it (which then was wanting) we do (<hi>Nemine contradicente,</hi> he and all) acquieſce in it.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Snowden.</hi> 1681</p>
+         </div>
+      </back>
+   </text>
+</TEI>
